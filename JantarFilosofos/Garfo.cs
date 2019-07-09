@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Threading;
 
-
-
-
 namespace JantarFilosofos
 {
     class Garfo
@@ -20,7 +17,6 @@ namespace JantarFilosofos
                 }
                 garfos[garfo1] = true;
                 garfos[garfo2] = true;
-
             }
         }
 
